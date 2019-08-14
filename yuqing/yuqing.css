@@ -1,0 +1,14 @@
+*{
+  margin:0;
+  padding: 0;
+}
+
+.img{
+  width: 100%;
+}
+
+@media screen and (max-width:1300px) {
+  .img{
+    width: 1300px;
+  }
+}
