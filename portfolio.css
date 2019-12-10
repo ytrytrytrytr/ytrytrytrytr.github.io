@@ -51,6 +51,8 @@ figure{
   color: white;
   margin: 0;
   font-size: 20px;
+  width: 500px;
+  text-align: center;
 }
 
 .xop-wrapper{
@@ -135,6 +137,8 @@ h4{
   transform: translateX(-50%);
   opacity: 0;
   transition: .3s;
+  width: 500px;
+  text-align: center;
 }
 
 /* hover */
@@ -171,7 +175,7 @@ figure:hover img{
   text-align: center;
   font-weight: 400;
   position: absolute;
-  top:1222px;
+  top:1678px;
   left: 45%;
   transform: translateX(-50%;);
 }
